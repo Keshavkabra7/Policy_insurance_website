@@ -6,7 +6,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/Keshavkabra7/Insurance_website.git
+git clone https://github.com/Keshavkabra7/Policy_insurance_website.git
 
 Navigate to the project directory:
 
